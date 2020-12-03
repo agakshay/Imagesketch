@@ -1,6 +1,6 @@
 # Imagesketch 
 ## Summary
-This is a sample project to convert an RGB image into sketch using basic computervision techniques
+This is a sample project to convert an RGB image into a sketch using basic computer vision techniques
 
 Intial RGB image is uploaded.
 
